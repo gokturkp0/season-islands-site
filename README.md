@@ -2,7 +2,8 @@
 
 Season Islands için Türkçe ve İngilizce destek ve gizlilik sayfaları.
 
-- `index.html` — destek ve gizlilik bağlantıları
+- `support.html` — İngilizce başlayan destek sayfası
+- `index.html` — ana adresten aynı destek sayfası
 - `privacy-tr.html` — Türkçe gizlilik politikası
 - `privacy-en.html` — İngilizce gizlilik politikası
 
